@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/katas/META"
+  "_build/install/default/lib/katas/dune-package"
+  "_build/install/default/lib/katas/opam"
+]
+bin: [
+  "_build/install/default/bin/katas"
+]
